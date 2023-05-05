@@ -15,5 +15,12 @@ public class Usuario {
 	Long id;
 	String nome;
 	String sobrenome;
-	Integer idade;
+	String email;
+	String idade;
+	String dataDeNascimento;
+	String cpf;
+	String ddd;
+	String telefone;
+	NivelDeAcesso nivelDeAcesso;
+	Sexo sexo;
 }
